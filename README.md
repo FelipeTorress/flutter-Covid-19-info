@@ -17,9 +17,11 @@ Main screen that grants access to the federation's media and an online test of t
 # Statistics Screen
 Statistics screen where it is possible to see disease data throughout Brazil or in a specific state and in worldwide.
 
-<p><img src="screenshots/Brasil_Statistic.png" width="200"></p>
-<p><img src="screenshots/State_Brasil_Box.png" width="200"></p>
-<p><img src="screenshots/World_Statistic.png" width="200"></p>
+<p>
+  <img src="screenshots/Brasil_Statistic.png" width="200">
+  <img src="screenshots/State_Brasil_Box.png" width="200">
+  <img src="screenshots/World_Statistic.png" width="200">
+</p>
 
 # Api Status Screen
 <p><img src="screenshots/Api_Status.png" width="200"></p>
